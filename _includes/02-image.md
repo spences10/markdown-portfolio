@@ -1,4 +1,4 @@
-![Scott Profile Pic](../images/spencee.png)
+![Scott Profile Pic]
 
 <!-- Image Links -->
-<!-- [Scott Profile Pic]: ./../images/spencee.png -->
+[Scott Profile Pic]: ./../images/spencee.png
